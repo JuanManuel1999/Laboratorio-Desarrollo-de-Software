@@ -19,3 +19,4 @@ Tendremos que cargar los archivos csv en el respectivo lugar que nos indica el p
 4to paso
 
 Tendremos que elegir alguna de las dos opciones la que necesitemos entre “Mostrar alumnos que no serán tutorados en 2022-I” y ”Mostrar distribución balanceada por tutoria”, nos llevara a otra ventana donde podremos ver los resultados de la consulta y además descargar un archivo csv con los datos que necesitamos. 
+# manuquito
